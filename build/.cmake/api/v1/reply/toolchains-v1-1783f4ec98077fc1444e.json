@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/ubuntu/anaconda3/include",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/include/c++/11.2.0",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/include/c++/11.2.0/x86_64-conda-linux-gnu",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/include/c++/11.2.0/backward",
+						"/home/ubuntu/anaconda3/lib/gcc/x86_64-conda-linux-gnu/11.2.0/include",
+						"/home/ubuntu/anaconda3/lib/gcc/x86_64-conda-linux-gnu/11.2.0/include-fixed",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/include",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/ubuntu/anaconda3/lib",
+						"/home/ubuntu/anaconda3/lib/gcc/x86_64-conda-linux-gnu/11.2.0",
+						"/home/ubuntu/anaconda3/lib/gcc",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/lib64",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/sysroot/lib64",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/lib64",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/lib",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/sysroot/lib",
+						"/home/ubuntu/anaconda3/x86_64-conda-linux-gnu/sysroot/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"m",
+						"gcc_s",
+						"gcc",
+						"c",
+						"gcc_s",
+						"gcc"
+					]
+				},
+				"path" : "/home/ubuntu/anaconda3/bin/x86_64-conda-linux-gnu-g++",
+				"version" : "11.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

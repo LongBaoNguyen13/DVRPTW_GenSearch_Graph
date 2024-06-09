@@ -1,0 +1,2 @@
+/home/ubuntu/anaconda3/bin/x86_64-conda-linux-gnu-ar qc libfmt.a CMakeFiles/fmt.dir/src/format.cc.o CMakeFiles/fmt.dir/src/os.cc.o
+/home/ubuntu/anaconda3/bin/x86_64-conda-linux-gnu-ranlib libfmt.a
